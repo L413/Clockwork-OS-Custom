@@ -5,7 +5,7 @@ function start() {
   ////CONFIG////
 
   var link = "https://raw.githubusercontent.com/PurePro4561/Tiny-Fishing/main/index.html"; // link to app webpage
-  var title = "Notepad"; // title shown in navbar
+  var title = "Tiny Fishing"; // title shown in navbar
   var id = "https://raw.githubusercontent.com/PurePro4561/Tiny-Fishing/main/html5game/TinyFishing.js"; // set this to the url location of your script
   
   ////SCRIPT////
