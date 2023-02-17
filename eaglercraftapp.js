@@ -5,7 +5,7 @@ function start() {
   ////CONFIG////
 
   var link = "https://eaglercraft.pxlmastr.repl.co/index.html"; // link to app webpage
-  var title = "Tiny Fishing"; // title shown in navbar
+  var title = "Eaglercraft"; // title shown in navbar
   var id = "https://l413.github.io/Clockworks-OS-Custom-Apps/eaglercraftapp.js"; // set this to the url location of your script
   
   ////SCRIPT////
