@@ -6,7 +6,7 @@ function start() {
 
   var link = "https://v6p9d9t4.ssl.hwcdn.net/html/2713283/dist/index.html"; // link to app webpage
   var title = "Bit Planes"; // title shown in navbar
-  var id = "https://l413.github.io/Clockworks-OS-Custom-Apps/bitplanesapp.js"; // set this to the url location of your script
+  var id = "https://l413.github.io/Clockworks-OS-Custom/bitplanesapp.js"; // set this to the url location of your script
   
   ////SCRIPT////
   
