@@ -6,7 +6,7 @@ function start() {
 
   var link = "https://purepro4561.github.io/Tiny-Fishing/index.html"; // link to app webpage
   var title = "Tiny Fishing"; // title shown in navbar
-  var id = "https://l413.github.io/Clockworks-OS-Custom-Apps/tinyfishing.js"; // set this to the url location of your script
+  var id = "https://l413.github.io/Clockworks-OS-Custom/tinyfishing.js"; // set this to the url location of your script
   
   ////SCRIPT////
   
