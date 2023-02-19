@@ -1,15 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
-html {
-  background-color: black;
+body, html {
+  height: 100%;
 }
 
-body {
-  margin: 0;
-  background-image: url(https://l413.github.io/Clockwork-OS-Custom/purplebackground.png);
+.bg {
+  background-image: url("https://l413.github.io/Clockwork-OS-Custom/purplebackground.png");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
   background-size: cover;
-  color: pink;
-  font-family: Noto Sans, "Noto Sans", Arial, sans-serif !important;
 }
 
 .main {
