@@ -18,7 +18,7 @@ body {
 
 .navbar {
   overflow-y: scroll;
-  background-color: #300;
+  background-color: black;
   position: fixed;
   bottom: 0;
   width: 100%;
@@ -31,7 +31,7 @@ body {
 }
 
 .navbar span {
-  background-color: #300;
+  background-color: purple;
   color: pink;
   text-decoration: none;
   padding: 0 4px;
