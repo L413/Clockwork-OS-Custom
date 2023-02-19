@@ -8,7 +8,7 @@ body {
   margin: 0;
   background-color: black;
   color: pink;
-  font-family: Roboto, Arial, sans-serif;
+  font-family: Noto Sans, "Noto Sans", Arial, sans-serif !important;
 }
 
 .main {
@@ -54,7 +54,7 @@ body {
 }
 
 .navbar a:hover {
-  background-color: #f88;
+  background-color: pink;
 }
 
 .consolea {
