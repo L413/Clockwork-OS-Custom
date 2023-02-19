@@ -6,7 +6,7 @@ function start() {
 
   var link = "http://dawid.myslak.me/2048/index.html"; // link to app webpage
   var title = "2048"; // title shown in navbar
-  var id = "https://l413.github.io/Clockworks-OS-Custom/2048app.js"; // set this to the url location of your script
+  var id = "https://l413.github.io/Clockwork-OS-Custom/2048app.js"; // set this to the url location of your script
   
   ////SCRIPT////
   
