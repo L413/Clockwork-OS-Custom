@@ -6,7 +6,8 @@ html {
 
 body {
   margin: 0;
-  background-color: black;
+  background-image: url(https://l413.github.io/Clockwork-OS-Custom/modern-futuristic-neon-purple-background-free-vector.webp);
+  background-size: cover;
   color: pink;
   font-family: Noto Sans, "Noto Sans", Arial, sans-serif !important;
 }
