@@ -5,7 +5,7 @@ function start() {
   ////CONFIG////
 
   var link = "https://745fb5c5-a9c6-42cd-8d83-412e29113a68.id.repl.co/basket-random/index.html"; // link to app webpage
-  var title = "2048"; // title shown in navbar
+  var title = "Basket Random"; // title shown in navbar
   var id = "https://l413.github.io/Clockwork-OS-Custom/basketrandomapp.js"; // set this to the url location of your script
   
   ////SCRIPT////
