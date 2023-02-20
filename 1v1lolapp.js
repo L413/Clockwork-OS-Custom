@@ -5,7 +5,7 @@ function start() {
   ////CONFIG////
 
   var link = "https://3kho.github.io/files/1v1lol/index.html"; // link to app webpage
-  var title = "PaperIO"; // title shown in navbar
+  var title = "1v1.lol"; // title shown in navbar
   var id = "https://l413.github.io/Clockwork-OS-Custom/1v1lolapp.js"; // set this to the url location of your script
   
   ////SCRIPT////
