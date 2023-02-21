@@ -10,5 +10,6 @@ Custom apps for the Clockworks bookmarklet.
 [Basket Random](https://l413.github.io/Clockwork-OS-Custom/basketrandomapp.js) <br>
 [Paper IO 2](https://l413.github.io/Clockwork-OS-Custom/paperio2app.js) <br>
 [Mandalin Stunt Cars](https://l413.github.io/Clockwork-OS-Custom/mandalinapp.js) <br>
+[Pokemon Launcher](https://l413.github.io/Clockwork-OS-Custom/pokemonapp.js) <br>
 ## Themes
 [Soft Purple](https://l413.github.io/Clockwork-OS-Custom/softpurpletheme.css) <br>
