@@ -4,7 +4,7 @@ javascript: var html = "<iframe id='frame' src='https://redstone-nw.netlify.app/
 ```
 ## Apps
 [Tiny Fishing](https://l413.github.io/Clockwork-OS-Custom/tinyfishingapp.js) <br>
-[Eaglercraft](https://l413.github.io/Clockwork-OS-Custom/eaglercraftapp.js) BROKEN <br>
+[Eaglercraft](https://l413.github.io/Clockwork-OS-Custom/eaglerapp.js) I JUST FIXED THIS YAY! <br>
 [Bitplanes](https://l413.github.io/Clockwork-OS-Custom/bitplanesapp.js) <br>
 [Web OSRS](https://l413.github.io/Clockwork-OS-Custom/webosrsapp.js) BROKEN <br>
 [2048](https://l413.github.io/Clockwork-OS-Custom/2048app.js) <br>
