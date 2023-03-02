@@ -10,7 +10,7 @@ function start() {
   
   ////SCRIPT////
   
-  var ExampleLink = document.createElement("a");
+ var ExampleLink = document.createElement("a");
   var ExampleIFrame = document.createElement("iframe");
   
   ExampleIFrame.style = "display: none;";
@@ -24,7 +24,6 @@ function start() {
   ExampleLink.addEventListener('dblclick', (e) => {
     uninstallApp(ExampleIFrame.id);
   });
-  
   ExampleLink.addEventListener('contextmenu', (e) => {
     e.preventDefault();
     closeApp(ExampleIFrame.id);
