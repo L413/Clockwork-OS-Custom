@@ -4,7 +4,7 @@ function start() {
 
   ////CONFIG////
 
-  var link = "https://clockwork-app-store.glitch.me/"; // link to app webpage
+  var link = "https://clockwork-store.glitch.me/"; // link to app webpage
   var title = "store"; // title shown in navbar
   var id = "https://l413.github.io/Clockwork-OS-Custom/clockworkstore.js"; // set this to the url location of your script
   
@@ -23,6 +23,11 @@ function start() {
   ExampleLink.className = id; 
   ExampleLink.addEventListener('dblclick', (e) => {
     uninstallApp(ExampleIFrame.id);
+  });
+  
+  ExampleLink.addEventListener('contextmenu', (e) => {
+    e.preventDefault();
+    closeApp(ExampleIFrame.id);
   });
   
   document.getElementById("navbar").appendChild(ExampleLink);
