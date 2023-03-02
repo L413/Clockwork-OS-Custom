@@ -24,7 +24,6 @@ function start() {
   ExampleLink.addEventListener('dblclick', (e) => {
     uninstallApp(ExampleIFrame.id);
   });
-  
   ExampleLink.addEventListener('contextmenu', (e) => {
     e.preventDefault();
     closeApp(ExampleIFrame.id);
