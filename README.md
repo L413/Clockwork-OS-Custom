@@ -15,5 +15,6 @@ javascript: var html = "<iframe id='frame' src='https://redstone-nw.netlify.app/
 [Mandalin Stunt Cars](https://l413.github.io/Clockwork-OS-Custom/mandalinapp.js) <br>
 [Pokemon Launcher](https://l413.github.io/Clockwork-OS-Custom/pokemonapp.js) <br>
 [Grey Box Testing](https://l413.github.io/Clockwork-OS-Custom/greyboxtestingapp.js) <br>
+[Doom](https://l413.github.io/Clockwork-OS-Custom/doomapp.js) <br>
 ## Themes
 [Soft Purple](https://l413.github.io/Clockwork-OS-Custom/softpurpletheme.css) <br>
