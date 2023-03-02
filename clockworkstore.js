@@ -4,9 +4,9 @@ function start() {
 
   ////CONFIG////
 
-  var link = "https://clockworkstore.glitch.me/"; // link to app webpage
+  var link = "https://clockwork-app-store.glitch.me/"; // link to app webpage
   var title = "store"; // title shown in navbar
-  var id = "https://l413.github.io/Clockwork-OS-Custom/storetestapp.js"; // set this to the url location of your script
+  var id = "https://l413.github.io/Clockwork-OS-Custom/clockworkstore.js"; // set this to the url location of your script
   
   ////SCRIPT////
   
