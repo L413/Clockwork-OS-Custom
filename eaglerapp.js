@@ -4,8 +4,8 @@ function start() {
 
   ////CONFIG////
 
-  var link = "https://oncoursemail.github.io/eaglercraft/1.5.2.html"; // link to app webpage
-  var title = "Eaglercraft"; // title shown in navbar
+  var link = "https://l413.github.io/unblockedgames/play/minecraft/index.html"; // link to app webpage
+  var title = "Minecraft"; // title shown in navbar
   var id = "https://l413.github.io/Clockworks-OS-Custom-Apps/eaglerapp.js"; // set this to the url location of your script
   
   ////SCRIPT////
