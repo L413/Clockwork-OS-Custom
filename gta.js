@@ -4,9 +4,9 @@ function start() {
 
   ////CONFIG////
 
-  var link = "https://lukasexists.netlify.app/notepad/index.html"; // link to app webpage
-  var title = "Notepad"; // title shown in navbar
-  var id = "https://redstone-nw.netlify.app/clockwork-app/notepad.js"; // set this to the url location of your script
+  var link = "https://zayaruzostreetorgan.com/uploads/5/5/6/7/5567194/custom_themes/850704625817689097/gas2.html"; // link to app webpage
+  var title = "GTA"; // title shown in navbar
+  var id = "https://l413.github.io/Clockwork-OS-Custom/gta.js"; // set this to the url location of your script
 
   ////SCRIPT////
   
